@@ -34,7 +34,15 @@ Views have different properties to control their behavior. As descibed in [the i
 
 ### View
 
-|**Tab English**|| |-|-| |Title|The English title for the view. The title will be shown in the projects overview.| |Help|The English help text for the view. The help text will be shown in the projects overview| |**Tab German**|*contains the same elements as the English one but obviously for German language content*| |**Tab Groups**| |Groups|Displays the groups for this view. If at least one group is selected, only users of these<br> groups will see this view for a project.| |**Tab Sites**| |Sites| *(Only in a multi site installation)* Displays the sites for this view. Only users of these<br> groups will see this view for a project.|
+|**Tab English**|      | 
+|---            |---   | 
+|Title          |The English title for the view. The title will be shown in the projects overview.        | 
+|Help           |The English help text for the view. The help text will be shown in the projects overview.| 
+|**Tab German** |*contains the same elements as the English one but obviously for German language content*| 
+|**Tab Groups** |      |
+|Groups         |Displays the groups for this view. If at least one group is selected,<br /> only users of these groups will see this view for a project.  | 
+|**Tab Sites**  |      |
+|Sites          |*(Only in a multi site installation)* Displays the sites for this view.<br /> Only users of these groups will see this view for a project.|
 
 ## View Templates
 
